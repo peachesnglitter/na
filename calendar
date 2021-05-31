@@ -8,7 +8,7 @@
 
     <style>
         body {
-    font-family: 'Times-New-Roman' ;
+   font-family: 'Times New Roman', serif;
     background-color: #fff;
 }
 
